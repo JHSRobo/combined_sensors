@@ -1,5 +1,5 @@
 # combinedSensors
-Sensors program
+Sensors program with ros
 
 Libraries need:
 * https://github.com/adafruit/Adafruit_CircuitPython_BusDevice
