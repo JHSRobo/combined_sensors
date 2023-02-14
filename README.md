@@ -7,3 +7,4 @@ Libraries need:
 * https://github.com/adafruit/Adafruit_CircuitPython_BNO08x
 * https://github.com/adafruit/Adafruit_CircuitPython_Register
 * https://github.com/adafruit/Adafruit_CircuitPython_DPS310
+* pip install smbus
