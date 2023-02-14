@@ -1,0 +1,7 @@
+float32 tempSensor
+float32 pressureInsideSenor
+float32 pressureOutsideSenor
+float32 quat_i
+float32 quat_j
+float32 quat_k
+float32 quat_real
